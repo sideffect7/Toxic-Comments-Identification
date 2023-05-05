@@ -1,1 +1,1 @@
-# Toxic-Comments-Identification
+This machine learning model is designed to identify and flag potentially harmful or abusive comments in online forums, social media platforms, or other digital communication channels. The model uses natural language processing (NLP) techniques to analyze the text of user comments and determine whether they contain language that is likely to be offensive, threatening, harassing, or otherwise inappropriate
